@@ -1,0 +1,3 @@
+#+title: Solar Cells and the LogWright function
+
+This repository contains code for the study on using the Logwright function to solve the characteristic equations of the single diode model of a solar cell.
