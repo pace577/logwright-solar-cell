@@ -1,3 +1,9 @@
 #+title: Solar Cells and the LogWright function
 
-This repository contains code for the study on using the Logwright function to solve the characteristic equations of the single diode model of a solar cell.
+This Github repository contains code related to the project which led to the paper *"Solar Cells, Lambert W and the LogWright Functions"*. This work is done by Prabhat Lankireddy, Sibibalan Jeevanandam, Aditya Chaudhary under the guidance of Prof. P.C. Deshmukh, Dr. Ken Roberts, and Prof. S. R. Valluri.
+
+For further information please contact:
+- Prabhat Lankireddy: pace577@protonmail.com
+- S. R. Valluri: valluri@uwo.ca
+
+Written on 30th June 2023.
