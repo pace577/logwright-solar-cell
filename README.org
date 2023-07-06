@@ -1,9 +1,9 @@
 #+title: Solar Cells and the LogWright function
 
-This Github repository contains code related to the project which led to the paper *"Solar Cells, Lambert W and the LogWright Functions"*. This work is done by Prabhat Lankireddy, Sibibalan Jeevanandam, Aditya Chaudhary under the guidance of Prof. P.C. Deshmukh, Dr. Ken Roberts, and Prof. S. R. Valluri.
+This Github repository contains code related to the project which led to the paper *Solar Cells, Lambert W and the LogWright Functions*. This work is done by Prabhat Lankireddy, Sibibalan Jeevanandam, Aditya Chaudhary under the guidance of Prof. P.C. Deshmukh, Dr. Ken Roberts, and Prof. S. R. Valluri.
 
 For further information please contact:
-- Prabhat Lankireddy: pace577@protonmail.com
-- S. R. Valluri: valluri@uwo.ca
+- Prabhat Lankireddy (e-mail: pace577 AT protonmail DOT com)
+- S. R. Valluri (e-mail: valluri AT uwo DOT ca)
 
-Written on 30th June 2023.
+Code published on 30th June 2023.
